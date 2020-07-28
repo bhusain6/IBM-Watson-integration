@@ -1,1 +1,2 @@
-This repository is linked with IBM Watson studio. It was created on 7.28.2020 with the purpose of integrating IBM Watson with Github and moving Jupyter notebooks from IBM to Github
+This repository is linked with IBM Watson studio. 
+It was created on 7.28.2020 with the purpose of integrating IBM Watson with Github and moving Jupyter notebooks from IBM to Github
