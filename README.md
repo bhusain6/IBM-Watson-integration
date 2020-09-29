@@ -1,2 +1,2 @@
 # IBM-Watson-integration
-Jupyter notebooks imported from IBM Watson
+On this page, you can a compilation of my projects using SQL and Python
