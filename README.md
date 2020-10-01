@@ -1,2 +1,2 @@
 # IBM-Watson-integration
-On this page, you can a compilation of my projects using SQL and Python
+On this page, you can find a collection of my projects using SQL and Python
